@@ -36,9 +36,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme
 <img src="https://yasin.kiyanpc.ir/assets/Yasin-Kiyani.png"/>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
