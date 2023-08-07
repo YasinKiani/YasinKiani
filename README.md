@@ -1,12 +1,10 @@
-<script>
-
-    [![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://Yasin.Kiyanpc.ir)
-         
-</script>
-<h2 align="center">
+<div align="center">
+    
+[![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://Yasin.Kiyanpc.ir) 
+    
     Welcome to my Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</div>
 # 💫 About Me:
 👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects
 
