@@ -25,6 +25,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://visfitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
