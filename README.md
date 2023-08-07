@@ -1,4 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://Yasin.Kiyanpc.ir)
+<script>
+
+    [![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://Yasin.Kiyanpc.ir)
+         
+</script>
 <h2 align="center">
     Welcome to my Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
