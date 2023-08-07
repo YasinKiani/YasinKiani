@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Yasin-Kiyani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](http://cp16.uploadguy.com:2082/cpsess2825892621/frontend/jupiter/filemanager/showfile.html?file=Yasin-Kiyani.png&fileop=&dir=%2Fhome3%2Fkiyanpci%2Fyasin-kiyani-github&dirop=&charset=&file_charset=&baseurl=&basedir=)http://cp16.uploadguy.com:2082/cpsess2825892621/frontend/jupiter/filemanager/showfile.html?file=Yasin-Kiyani.png&fileop=&dir=%2Fhome3%2Fkiyanpci%2Fyasin-kiyani-github&dirop=&charset=&file_charset=&baseurl=&basedir=" width="512px"/>
+<img src="https://yasin.kiyanpc.ir/assets/Yasin-Kiyani.png"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yasin-Kiyani&label=Profile%20Views&pretty=true)](https://Yasin.Kiyanpc.ir)
