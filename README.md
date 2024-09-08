@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yasin_Kiyani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yasin.Kiyanii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-kiyanii) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Yasin_Kiyani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yasin_Kiyani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQtsX3jS09mkbdBnTKYz68Q) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yasin-Kiyani) 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?logo=Telegram&logoColor=white)](https://t.me/YK_81) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2?logo=Telegram&logoColor=white)](https://t.me/YK_81) 
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-F38020?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22712980/yasin-kiyani-یاسین-کیانی) 
 
 # 💻 Tech Stack:
