@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-[![](https://visitcount.itsvg.in/api?id=Yasin-Kiani&label=Profile%20Views&pretty=true)](https://YasinKiani.ir) 
+[![](https://visitcount.itsvg.in/api?id=YasinKiani&label=Profile%20Views&pretty=true)](https://YasinKiani.ir) 
 
 # 💫 About Me:
 👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects
@@ -21,19 +21,19 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yasin-Kiyani&theme=vision-friendly-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Yasin-Kiyani&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasin-Kiyani&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YasinKiani&theme=vision-friendly-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=YasinKiani&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinKiani&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ⚠️ All repositories are hidden for security reasons and therefore not displayed.  The repositories will be published in the next few days
 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yasin-Kiyani&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YasinKiani&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yasin-Kiyani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=YasinKiani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
