@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects
-✉️ &nbsp;You can shoot me an email at YasinKiani.Dev@gmail.com! I'll try to respond as soon as I can.
+<br>✉️ &nbsp;You can shoot me an email at YasinKiani.Dev@gmail.com! I'll try to respond as soon as I can.
 
 
 
