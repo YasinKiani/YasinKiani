@@ -8,7 +8,8 @@
 [![](https://visitcount.itsvg.in/api?id=YasinKiani&label=Profile%20Views&pretty=true)](https://YasinKiani.ir) 
 
 # 💫 About Me:
-👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects✉️ &nbsp;You can shoot me an email at noori4815162342@gmail.com! I'll try to respond as soon as I can.\
+👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects
+✉️ &nbsp;You can shoot me an email at YasinKiani.Dev@gmail.com! I'll try to respond as soon as I can.
 
 
 
