@@ -7,9 +7,28 @@
 
 [![](https://visitcount.itsvg.in/api?id=YasinKiani&label=Profile%20Views&pretty=true)](https://YasinKiani.ir) 
 
-# 💫 About Me:
-👀 I am interested in coding, watching movies and playing games<br>🌱 They are currently studying at Mohajer Technical and Vocational College<br>💞️ I am looking for cooperation in open source projects
-<br>✉️ &nbsp;You can shoot me an email at YasinKiani.Dev@gmail.com! I'll try to respond as soon as I can.
+## 🚀 About Me
+
+👋 I am a **Creative Web Designer & Developer**, and a dedicated **Software Engineer**.
+
+My expertise extends beyond the web. While I specialize in crafting elegant, user-centric websites and frontend designs, I am also a skilled software programmer capable of building robust, scalable applications.
+
+💡 **My Philosophy:** I bridge the gap between visual artistry and engineering logic. Whether I am developing a responsive web platform or architecting a complex software solution, my focus is always on writing clean, efficient code and delivering a seamless user experience.
+
+### 🛠 Core Competencies
+* 🌐 **Web Development:** Full-stack expertise in building modern, responsive websites.
+* 💻 **Software Engineering:** Developing scalable software logic and algorithms.
+* 🎨 **UI/UX Design:** Creating intuitive and engaging digital interfaces.
+* ⚙️ **System Architecture:** Designing secure and efficient workflows for both web and software projects.
+
+---
+
+### 🌟 More About Me
+* 🎓 **Education:** Graduated from **Mohajer Technical and Vocational College**.
+* 👀 **Interests:** Coding, Watching Movies, and Playing Games.
+* 💞️ **Collaboration:** I am looking for cooperation in **Open Source projects**.
+* ✉️ **Contact:** You can shoot me an email at **YasinKiani.Dev@gmail.com**! I'll try to respond as soon as I can.
+
 
 
 
