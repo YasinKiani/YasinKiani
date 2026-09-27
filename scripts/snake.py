@@ -22,7 +22,7 @@ BAND_GAP = 26       # space between the two bands
 PAD = 14
 STEP = 0.11         # seconds per cell the snake moves
 SEGMENTS = 9
-PAUSE_STEPS = 18    # empty time off screen before the next round
+PAUSE_STEPS = 30    # time off screen before the next round; eaten days grow back
 
 THEMES = {
     "dark": {"empty": "#1B1F24", "border": "#262B31", "levels": ["#5A3410", "#8F5316", "#C8721F", "#F59541"],
@@ -104,6 +104,7 @@ def svg(grid, theme):
     width = PAD * 2 + WEEKS * PITCH - GAP
     height = PAD * 2 + 14 * PITCH - GAP + BAND_GAP
 
+    regrow = (n - PAUSE_STEPS) / n  # the snake has left the grid by now
     first_visit = {}
     for i, cell in enumerate(path):
         first_visit.setdefault(cell, i)
@@ -122,10 +123,12 @@ def svg(grid, theme):
                 out.append(f'<rect {attrs} fill="{t["empty"]}"/>')
                 continue
             color = t["levels"][lvl - 1]
+            # flash when eaten, stay empty while the snake is on the grid, then grow back
             k = first_visit[(col, row)] / n
-            k2 = min(k + 0.004, 0.999)
+            times = [0, k, k, k + 1.5 / n, regrow, regrow + 6 / n, 1]
+            values = [color, color, t["head"], t["empty"], t["empty"], color, color]
             out.append(f'<rect {attrs} fill="{color}"><animate attributeName="fill" dur="{dur:.2f}s" repeatCount="indefinite" '
-                       f'calcMode="discrete" keyTimes="0;{k:.4f};{k2:.4f}" values="{color};{t["head"]};{t["empty"]}"/></rect>')
+                       f'keyTimes="{";".join("%.4f" % v for v in times)}" values="{";".join(values)}"/></rect>')
 
     d = "M" + " L".join("%.1f %.1f" % center(c, r) for c, r in path)
     lag = 0.8 * STEP  # time between two body segments
