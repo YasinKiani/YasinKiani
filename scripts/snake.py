@@ -1,6 +1,6 @@
-"""Draw the contribution snake: the last year of contributions folded into two
-rows of 27 weeks (so the cells are twice as big as GitHub's own graph), and an
-orange snake that crawls in, eats every active day and leaves again.
+"""Draw the contribution snake: the last year of real contributions (53 weeks,
+like GitHub's own graph) and an orange snake that crawls in, eats every active
+day and leaves again; the eaten days grow back before the next round.
 
 Pure SVG + SMIL, so it animates inside a README <img>.
 Usage: python scripts/snake.py dist        (DEMO=1 uses random data)
@@ -15,10 +15,9 @@ from datetime import date
 USER = os.environ.get("PROFILE_USER", "YasinKiani")
 OUT = sys.argv[1] if len(sys.argv) > 1 else "dist"
 
-WEEKS = 27          # weeks per band
+WEEKS = 53          # one year
 CELL, GAP = 16, 5   # cell size and gap
 PITCH = CELL + GAP
-BAND_GAP = 26       # space between the two bands
 PAD = 14
 STEP = 0.11         # seconds per cell the snake moves
 SEGMENTS = 9
@@ -49,22 +48,13 @@ def contributions():
 
 
 def layout(cells):
-    """Map (week, weekday) to a grid (col, row); the older half on top."""
-    weeks = max(w for w, _ in cells) + 1
-    first = weeks - 2 * WEEKS  # may be negative: nothing is lost, the top band just starts later
-    grid = {}
-    for (w, d), lvl in cells.items():
-        k = w - first
-        if k < 0:
-            continue
-        band, col = divmod(k, WEEKS)
-        grid[(col, band * 7 + d)] = lvl
-    return grid
+    """Map (week, weekday) to a grid (col, row), newest week in the last column."""
+    first = max(w for w, _ in cells) + 1 - WEEKS
+    return {(w - first, d): lvl for (w, d), lvl in cells.items() if w >= first}
 
 
 def center(col, row):
-    y = PAD + row * PITCH + (BAND_GAP if row >= 7 else 0) + CELL / 2
-    return PAD + col * PITCH + CELL / 2, y
+    return PAD + col * PITCH + CELL / 2, PAD + row * PITCH + CELL / 2
 
 
 def route(grid):
@@ -77,7 +67,6 @@ def route(grid):
     def walk(to):
         nonlocal pos
         (c, r), (tc, tr) = pos, to
-        # stay inside a band while moving sideways, change rows in the gap column-wise
         while r != tr:
             r += 1 if tr > r else -1
             path.append((c, r))
@@ -102,7 +91,7 @@ def svg(grid, theme):
     n = len(path) - 1
     dur = n * STEP
     width = PAD * 2 + WEEKS * PITCH - GAP
-    height = PAD * 2 + 14 * PITCH - GAP + BAND_GAP
+    height = PAD * 2 + 7 * PITCH - GAP
 
     regrow = (n - PAUSE_STEPS) / n  # the snake has left the grid by now
     first_visit = {}
@@ -115,7 +104,7 @@ def svg(grid, theme):
            f'<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>'
            '</filter></defs>']
     for col in range(WEEKS):
-        for row in range(14):
+        for row in range(7):
             x, y = center(col, row)
             lvl = grid.get((col, row), 0)  # days outside the year are drawn as empty cells
             attrs = f'x="{x - CELL / 2:.1f}" y="{y - CELL / 2:.1f}" width="{CELL}" height="{CELL}" rx="4" stroke="{t["border"]}"'
