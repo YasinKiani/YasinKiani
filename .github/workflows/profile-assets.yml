@@ -1,7 +1,7 @@
 # Builds the live parts of the profile README and pushes them to the `output` branch:
 #   - profile-details.svg  (activity card, with a clean "Yasin Kiani" title)
 #   - followers.svg / views.svg  (stats badges in the same style as the other badges)
-#   - github-snake(-dark).svg  (contribution graph eaten by a snake, orange theme)
+#   - github-snake(-dark).svg  (contribution graph eaten by a snake, drawn by scripts/snake.py)
 name: Generate profile assets
 
 on:
@@ -37,12 +37,9 @@ jobs:
         run: python3 scripts/stats_badges.py dist
 
       - name: Contribution snake (orange theme)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#F59541&color_dots=#ebedf0,#fde3c8,#fbc08a,#f89c4f,#e07b24
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#F59541&color_dots=#161b22,#4d2c0f,#8a4a12,#c96d1c,#F59541
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/snake.py dist
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
