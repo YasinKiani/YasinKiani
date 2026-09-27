@@ -19,9 +19,9 @@ WEEKS = 53          # one year (set to 26 for the phone version)
 CELL, GAP = 16, 5   # cell size and gap
 PITCH = CELL + GAP
 PAD = 14
-STEP = 0.11         # seconds per cell the snake moves
+STEP = 0.06         # seconds per cell the snake moves
 SEGMENTS = 9
-PAUSE_STEPS = 30    # time off screen before the next round; eaten days grow back
+PAUSE_STEPS = 40    # time off screen before the next round; eaten days grow back
 
 THEMES = {
     "dark": {"empty": "#1B1F24", "border": "#262B31", "levels": ["#5A3410", "#8F5316", "#C8721F", "#F59541"],
