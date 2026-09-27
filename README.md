@@ -157,7 +157,7 @@ My work sits where **visual design meets engineering logic.** Whatever the proje
   <img src="assets/text/h-connect-en-light.svg" alt="Connect With Me" />
 </picture>
 
-<p align="center">
+<p align="left">
   <a href="https://YasinKiani.com"><img src="assets/social/website.svg" alt="Website" height="34" /></a>
   <a href="https://linkedin.com/in/yasinkiani"><img src="assets/social/linkedin.svg" alt="LinkedIn" height="34" /></a>
   <a href="https://instagram.com/YasinKiani_Dev"><img src="assets/social/instagram.svg" alt="Instagram" height="34" /></a>
@@ -170,8 +170,8 @@ My work sits where **visual design meets engineering logic.** Whatever the proje
   <a href="mailto:yasinkiani.dev@gmail.com"><img src="assets/social/gmail.svg" alt="Gmail" height="34" /></a>
 </p>
 
-<p align="center">
-  <sub><b>www.YasinKiani.com</b> &nbsp;|&nbsp; <b>yasinkiani.dev@gmail.com</b> &nbsp;|&nbsp; <b dir="ltr">+98&nbsp;991&nbsp;865&nbsp;4559</b></sub>
+<p align="left">
+  <sub><b dir="ltr">www.YasinKiani.com</b> &nbsp;|&nbsp; <b dir="ltr">yasinkiani.dev@gmail.com</b> &nbsp;|&nbsp; <b dir="ltr">+98&nbsp;991&nbsp;865&nbsp;4559</b></sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:AD6006,100:F59541&height=110&section=footer" width="100%" alt="" />
