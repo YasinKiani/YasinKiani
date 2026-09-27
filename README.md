@@ -1,12 +1,12 @@
+<p align="right">
+  <a href="README.md"><img src="assets/text/lang-en-on.svg" alt="English" height="28" /></a>
+  <a href="README.fa.md"><img src="assets/text/lang-fa-off.svg" alt="فارسی" height="28" /></a>
+</p>
+
 <p align="center">
   <a href="https://YasinKiani.com">
     <img src="assets/banner.webp" alt="Yasin Kiani – Full-Stack Developer | But Loves Front-End" width="100%" />
   </a>
-</p>
-
-<p align="center">
-  <a href="README.md"><img src="assets/text/lang-en-on.svg" alt="English" height="34" /></a>
-  <a href="README.fa.md"><img src="assets/text/lang-fa-off.svg" alt="فارسی" height="34" /></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://YasinKiani.com"><img src="assets/social/top-yasinkiani-com.svg" alt="YasinKiani.com" height="30" /></a>
-  <a href="mailto:yasinkiani.dev@gmail.com"><img src="assets/social/top-yasinkiani-dev-gmail-com.svg" alt="yasinkiani.dev@gmail.com" height="30" /></a>
   <a href="https://github.com/YasinKiani?tab=followers"><img src="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/followers.svg" alt="Followers" height="30" /></a>
   <img src="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/views.svg" alt="Profile views" height="30" />
 </p>
