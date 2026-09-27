@@ -163,6 +163,8 @@
 </p>
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/github-snake-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/github-snake-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/YasinKiani/YasinKiani/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 </picture>

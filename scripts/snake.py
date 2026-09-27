@@ -15,7 +15,7 @@ from datetime import date
 USER = os.environ.get("PROFILE_USER", "YasinKiani")
 OUT = sys.argv[1] if len(sys.argv) > 1 else "dist"
 
-WEEKS = 53          # one year
+WEEKS = 53          # one year (set to 26 for the phone version)
 CELL, GAP = 16, 5   # cell size and gap
 PITCH = CELL + GAP
 PAD = 14
@@ -141,7 +141,12 @@ def svg(grid, theme):
 
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
-    grid = layout(contributions())
-    for theme, name in (("light", "github-snake.svg"), ("dark", "github-snake-dark.svg")):
-        open(os.path.join(OUT, name), "w", encoding="utf-8").write(svg(grid, theme))
-    print("active days:", sum(1 for v in grid.values() if v))
+    cells = contributions()
+    # full year for wide screens, the last 26 weeks (twice as big) for phones
+    for weeks, suffix in ((53, ""), (26, "-mobile")):
+        WEEKS = weeks
+        grid = layout(cells)
+        for theme, tag in (("light", ""), ("dark", "-dark")):
+            name = f"github-snake{suffix}{tag}.svg"
+            open(os.path.join(OUT, name), "w", encoding="utf-8").write(svg(grid, theme))
+        print(f"{weeks} weeks, active days:", sum(1 for v in grid.values() if v))
