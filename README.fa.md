@@ -207,7 +207,6 @@
   <a href="https://t.me/YasinKiani_Dev"><img src="assets/social/telegram.svg" alt="Telegram" height="34" /></a>
   <a href="https://wa.me/989918654559"><img src="assets/social/whatsapp.svg" alt="WhatsApp" height="34" /></a>
   <a href="https://twitter.com/YasinKiani_Dev"><img src="assets/social/x.svg" alt="X" height="34" /></a>
-  <a href="https://stackoverflow.com/users/22712980/yasin-kiani"><img src="assets/social/stack-overflow.svg" alt="Stack Overflow" height="34" /></a>
   <a href="mailto:yasinkiani.dev@gmail.com"><img src="assets/social/gmail.svg" alt="Gmail" height="34" /></a>
 </p>
 
