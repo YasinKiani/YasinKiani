@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56.25" height="48" viewBox="0 0 300 256" role="img" aria-label="SQL"><title>SQL</title>
-<g transform="translate(44 0)">
+<svg xmlns="http://www.w3.org/2000/svg" width="48.00" height="48" viewBox="0 0 256 256" role="img" aria-label="SQL"><title>SQL</title>
+<g transform="translate(0 0)">
 <rect x="0" y="0" width="256" height="256" rx="60" fill="#336791"/>
 <g transform="translate(48 48) scale(6.6667)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#FFFFFF"><path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0"/><path d="M4 6v6a8 3 0 0 0 16 0v-6"/><path d="M4 12v6a8 3 0 0 0 16 0v-6"/></g></g>
 </g>

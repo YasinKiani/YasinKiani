@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56.25" height="48" viewBox="0 0 300 256" role="img" aria-label="Theme &amp; Plugin Development"><title>Theme &amp; Plugin Development</title>
-<g transform="translate(44 0)">
+<svg xmlns="http://www.w3.org/2000/svg" width="48.00" height="48" viewBox="0 0 256 256" role="img" aria-label="Theme &amp; Plugin Development"><title>Theme &amp; Plugin Development</title>
+<g transform="translate(0 0)">
 <rect x="0" y="0" width="256" height="256" rx="60" fill="#21759B"/>
 <g transform="translate(48 48) scale(6.6667)"><g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 3a9 9 0 1 0 0 18a9 9 0 0 0 0 -18z"/><path d="M5.5 9l3.5 8.5l3 -6.5l3 6.5l3.5 -8.5"/></g></g>
 <circle cx="206" cy="206" r="44" fill="#242938" stroke="#FFFFFF" stroke-width="8"/><g transform="translate(182 182) scale(2)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#F59541"><path d="M7 8l-4 4l4 4"/><path d="M17 8l4 4l-4 4"/><path d="M14 4l-4 16"/></g></g>
