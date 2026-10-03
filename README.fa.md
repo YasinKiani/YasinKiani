@@ -47,7 +47,7 @@
 <div align="right">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-education-fa-dark.svg" />
-  <img src="assets/text/h-education-fa-light.svg" alt="تحصیلات و مدارک" />
+  <img src="assets/text/h-education-fa-light.svg" alt="تحصیلات" />
 </picture>
 </div>
 
@@ -57,14 +57,6 @@
 |---|---|---|
 | **کارشناسی** | مهندسی حرفه‌ای کامپیوتر نرم‌افزار | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
 | **کاردانی** | کامپیوتر – نرم‌افزار | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
-
-**گواهی‌نامه‌ها**
-
-<p align="right">
-  <a href="https://icdl.org/" title="ICDL – International Computer Driving Licence"><img src="assets/skills/tiles/icdl.svg" alt="ICDL" width="48" /></a>
-</p>
-
-- **ICDL**: گواهی‌نامه بین‌المللی مهارت‌های کامپیوتر
 
 </div>
 

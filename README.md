@@ -40,21 +40,13 @@ I build websites and web applications, WordPress themes and plugins, Android app
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-education-en-dark.svg" />
-  <img src="assets/text/h-education-en-light.svg" alt="Education & Certificates" />
+  <img src="assets/text/h-education-en-light.svg" alt="Education" />
 </picture>
 
 | Degree | Field of Study | Institution |
 |---|---|---|
 | **Bachelor's degree** | Professional Engineering in Computer Software | Shahid Mohsen Mohajer Technical and Vocational College, Isfahan<br /><sub>National University of Skills (formerly Technical and Vocational University)</sub> |
 | **Associate degree** | Computer Software Technology | Shahid Mohsen Mohajer Technical and Vocational College, Isfahan<br /><sub>National University of Skills (formerly Technical and Vocational University)</sub> |
-
-**Certificates**
-
-<p>
-  <a href="https://icdl.org/" title="ICDL – International Computer Driving Licence"><img src="assets/skills/tiles/icdl.svg" alt="ICDL" width="48" /></a>
-</p>
-
-- **ICDL** – International Computer Driving Licence
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-competencies-en-dark.svg" />
