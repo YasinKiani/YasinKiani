@@ -55,7 +55,7 @@
 
 | مقطع | رشته | محل تحصیل |
 |---|---|---|
-| **کارشناسی** | مهندسی حرفه‌ای نرم‌افزار کامپیوتر | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
+| **کارشناسی** | مهندسی حرفه‌ای کامپیوتر نرم‌افزار | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
 | **کاردانی** | کامپیوتر – نرم‌افزار | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
 
 **گواهی‌نامه‌ها**
@@ -131,7 +131,7 @@
   <img src="assets/text/l-wordpress-fa-light.svg" alt="وردپرس" />
 </picture>
 <p align="right">
-  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-cms.svg" alt="WordPress CMS" title="WordPress CMS" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-mobile-fa-dark.svg" />

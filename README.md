@@ -111,7 +111,7 @@ I build websites and web applications, WordPress themes and plugins, Android app
   <img src="assets/text/l-wordpress-en-light.svg" alt="WordPress" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-cms.svg" alt="WordPress CMS" title="WordPress CMS" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-mobile-en-dark.svg" />
