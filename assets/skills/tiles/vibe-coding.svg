@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48.00" height="48" viewBox="0 0 256 256" role="img" aria-label="Vibe Coding"><title>Vibe Coding</title>
 <g transform="translate(0 0)">
-<rect x="0" y="0" width="256" height="256" rx="60" fill="#F59541"/>
-<g transform="translate(48 48) scale(6.6667)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#FFFFFF"><path d="M7 8l-4 4l4 4"/><path d="M17 8l4 4l-4 4"/><path d="M12 4l1.2 3.3l3.3 1.2l-3.3 1.2l-1.2 3.3l-1.2 -3.3l-3.3 -1.2l3.3 -1.2z"/><path d="M12 17v3"/><path d="M10.5 18.5h3"/></g></g>
+<defs><linearGradient id="vg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#EC4899"/></linearGradient></defs><rect x="0" y="0" width="256" height="256" rx="60" fill="url(#vg)"/><g fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"><path d="M74 84L34 128L74 172"/><path d="M182 84L222 128L182 172"/></g><path fill="#FFFFFF" d="M128 82C137.0 123.0 137.0 123.0 178 132C137.0 141.0 137.0 141.0 128 182C119.0 141.0 119.0 141.0 78 132C119.0 123.0 119.0 123.0 128 82Z"/><path fill="#FDE68A" d="M186 38C189.6 54.4 189.6 54.4 206 58C189.6 61.6 189.6 61.6 186 78C182.4 61.6 182.4 61.6 166 58C182.4 54.4 182.4 54.4 186 38Z"/>
 </g>
 </svg>

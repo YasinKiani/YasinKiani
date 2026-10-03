@@ -89,7 +89,7 @@ I build websites and web applications, WordPress themes and plugins, Android app
   <img src="assets/text/l-backend-en-light.svg" alt="Back-End & Frameworks" />
 </picture>
 <p>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" /></a>&nbsp;<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" /></a>&nbsp;<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" /></a>&nbsp;<a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" /></a>&nbsp;<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" /></a>&nbsp;<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" /></a>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-databases-en-dark.svg" />
