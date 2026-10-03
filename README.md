@@ -27,105 +27,134 @@
   <img src="assets/text/h-about-en-light.svg" alt="About Me" />
 </picture>
 
-I am a **Full-Stack Developer** and **Software Engineer** based in **Isfahan, Iran** — with a particular love for the front-end. I build web platforms, Android applications and data-driven software, from elegant, responsive interfaces to scalable back-end architectures.
+I'm **Yasin Kiani**, a **full-stack developer** and **software engineer** from **Isfahan, Iran**. The front-end is where I feel most at home: it is where design and engineering meet, and where the result is something people actually see and use.
 
-My work sits where **visual design meets engineering logic.** Whatever the project, I focus on **clean, maintainable code** and a **seamless user experience.**
-
-<img src="https://api.iconify.design/tabler/school.svg?color=%23F59541&height=20" height="20" align="top" alt="" />&nbsp; **Education**
-
-- **B.Sc.** Professional Computer Engineering – Software
-- **Associate Degree** in Computer Software
-- National Skills University (formerly Technical and Vocational University) — *Shahid Mohsen Mohajer Technical College, Isfahan*
+I build websites and web applications, WordPress themes and plugins, Android apps and data-driven software. On every project I care about two things: **code that is easy to read and maintain**, and **an experience that feels simple and pleasant** to the people using it.
 
 <img src="https://api.iconify.design/tabler/sparkles.svg?color=%23F59541&height=20" height="20" align="top" alt="" />&nbsp; **At a Glance**
 
-- Building web platforms, Android apps and AI-powered tools
-- Exploring machine learning, computer vision and AI-driven SEO
-- Open to collaboration on **open-source projects**
-- Languages: Persian (native), English
+- Building web platforms, WordPress plugins, Android apps and AI-powered tools
+- Growing my skills in machine learning, computer vision and AI-assisted SEO
+- Always happy to collaborate on **open-source projects**
+- Languages: Persian (native) and English
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-education-en-dark.svg" />
+  <img src="assets/text/h-education-en-light.svg" alt="Education & Certificates" />
+</picture>
+
+| Degree | Field of Study | Institution |
+|---|---|---|
+| **Bachelor's degree** | Professional Engineering in Computer Software | Shahid Mohsen Mohajer Technical and Vocational College, Isfahan<br /><sub>National University of Skills (formerly Technical and Vocational University)</sub> |
+| **Associate degree** | Computer Software Technology | Shahid Mohsen Mohajer Technical and Vocational College, Isfahan<br /><sub>National University of Skills (formerly Technical and Vocational University)</sub> |
+
+**Certificates**
+
+<p>
+  <img src="assets/skills/tiles/icdl.svg" alt="ICDL" title="ICDL" />
+</p>
+
+- **ICDL** – International Computer Driving Licence
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-competencies-en-dark.svg" />
-  <img src="assets/text/h-competencies-en-light.svg" alt="Core Competencies" />
+  <img src="assets/text/h-competencies-en-light.svg" alt="What I Do" />
 </picture>
 
-| Area | Focus |
+| Area | What I do |
 |---|---|
-| **Web Development** | Modern, responsive full-stack websites and web applications |
-| **Front-End & UI/UX** | Intuitive, accessible and engaging interfaces — my favourite part |
-| **Software Engineering** | Scalable application logic, algorithms and desktop software |
-| **Android Development** | Native Java apps with SQLite, Material Design and RTL layouts |
-| **AI & Computer Vision** | Face recognition, machine learning and AI-assisted workflows |
-| **System Architecture** | Secure, efficient workflows and database design |
+| **Web Development** | Modern, responsive websites and web applications, from the interface to the server and the database |
+| **Front-End & UI/UX** | Clear, accessible and attractive interfaces – the part of the work I enjoy most |
+| **WordPress** | Custom themes, plugins and Elementor widgets |
+| **Software Engineering** | Well-structured application logic, algorithms and desktop software |
+| **Android Development** | Native Java apps with SQLite, Material Design and full right-to-left support |
+| **AI & Computer Vision** | Face recognition, machine learning and AI-assisted development |
+| **Databases & Architecture** | Database design and secure, efficient system workflows |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-stack-en-dark.svg" />
-  <img src="assets/text/h-stack-en-light.svg" alt="Tech Stack" />
+  <img src="assets/text/h-stack-en-light.svg" alt="Skills & Tools" />
 </picture>
 
 <div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-languages-en-dark.svg" />
-  <img src="assets/text/l-languages-en-light.svg" alt="Languages" />
+  <img src="assets/text/l-languages-en-light.svg" alt="Programming Languages" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,ts&perline=12" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,ts&perline=12" alt="Programming Languages" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-frontend-en-dark.svg" />
-  <img src="assets/text/l-frontend-en-light.svg" alt="Front-End &amp; CMS" />
+  <img src="assets/text/l-frontend-en-light.svg" alt="Front-End" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,jquery,wordpress&perline=12" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,jquery,angular,react,nextjs,vue,bootstrap&perline=12" alt="Front-End" /><img src="assets/skills/tiles/css-grid-modules.svg" alt="CSS Grid & Modules" title="CSS Grid & Modules" /><img src="assets/skills/tiles/responsive-design.svg" alt="Responsive Design" title="Responsive Design" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-backend-en-dark.svg" />
-  <img src="assets/text/l-backend-en-light.svg" alt="Back-End, Databases &amp; AI" />
+  <img src="assets/text/l-backend-en-light.svg" alt="Back-End & Frameworks" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,django,mysql,sqlite,postgres,tensorflow&perline=12" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,dotnet&perline=12" alt="Back-End & Frameworks" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-databases-en-dark.svg" />
+  <img src="assets/text/l-databases-en-light.svg" alt="Databases" />
+</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=12" alt="Databases" /><img src="assets/skills/tiles/sql.svg" alt="SQL" title="SQL" /><img src="assets/skills/tiles/sql-server.svg" alt="SQL Server" title="SQL Server" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-wordpress-en-dark.svg" />
+  <img src="assets/text/l-wordpress-en-light.svg" alt="WordPress" />
+</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-cms.svg" alt="WordPress CMS" title="WordPress CMS" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-mobile-en-dark.svg" />
-  <img src="assets/text/l-mobile-en-light.svg" alt="Mobile, Game Development &amp; Tools" />
+  <img src="assets/text/l-mobile-en-light.svg" alt="Mobile & Game Development" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,unity,git,github,vscode,visualstudio,windows&perline=12" alt="mobile" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity&perline=12" alt="Mobile & Game Development" /><img src="assets/skills/tiles/android-development.svg" alt="Android Development" title="Android Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-design-en-dark.svg" />
-  <img src="assets/text/l-design-en-light.svg" alt="Design" />
+  <img src="assets/text/l-design-en-light.svg" alt="UI/UX & Graphic Design" />
 </picture>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" alt="design" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" alt="UI/UX & Graphic Design" /><img src="assets/skills/tiles/ui-ux-design.svg" alt="UI/UX Design" title="UI/UX Design" /><img src="assets/skills/tiles/adobe-dreamweaver.svg" alt="Adobe Dreamweaver" title="Adobe Dreamweaver" />
 </p>
-
-<details>
-<summary><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-more-en-dark.svg" />
-  <img src="assets/text/l-more-en-light.svg" alt="More skills and software" />
-</picture></summary>
-<br />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-ai-en-dark.svg" />
+  <img src="assets/text/l-ai-en-light.svg" alt="AI & Machine Learning" />
+</picture>
 <p>
-  <img src="assets/skills/sql-server.svg" alt="SQL Server" height="34" />
-  <img src="assets/skills/windows-server.svg" alt="Windows Server" height="34" />
-  <img src="assets/skills/responsive-design.svg" alt="Responsive Design" height="34" />
-  <img src="assets/skills/css-grid-modules.svg" alt="CSS Grid & Modules" height="34" />
-  <img src="assets/skills/machine-learning.svg" alt="Machine Learning" height="34" />
-  <img src="assets/skills/opencv.svg" alt="OpenCV" height="34" />
-  <img src="assets/skills/google-analytics.svg" alt="Google Analytics" height="34" />
-  <img src="assets/skills/seo-with-ai.svg" alt="SEO with AI" height="34" />
-  <img src="assets/skills/ai-assisted-development.svg" alt="AI-Assisted Development" height="34" />
-  <img src="assets/skills/adobe-dreamweaver.svg" alt="Adobe Dreamweaver" height="34" />
-  <img src="assets/skills/aspen-hysys.svg" alt="Aspen HYSYS" height="34" />
-  <img src="assets/skills/aspen-pims.svg" alt="Aspen PIMS" height="34" />
-  <img src="assets/skills/kbc-petro-sim.svg" alt="KBC Petro-SIM" height="34" />
-  <img src="assets/skills/icdl.svg" alt="ICDL" height="34" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=12" alt="AI & Machine Learning" /><img src="assets/skills/tiles/machine-learning.svg" alt="Machine Learning" title="Machine Learning" /><img src="assets/skills/tiles/vibe-coding.svg" alt="Vibe Coding" title="Vibe Coding" />
 </p>
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-seo-en-dark.svg" />
+  <img src="assets/text/l-seo-en-light.svg" alt="SEO & Analytics" />
+</picture>
+<p>
+  <img src="assets/skills/tiles/seo-with-ai.svg" alt="SEO with AI" title="SEO with AI" /><img src="assets/skills/tiles/google-analytics.svg" alt="Google Analytics" title="Google Analytics" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-tools-en-dark.svg" />
+  <img src="assets/text/l-tools-en-light.svg" alt="Tools & Infrastructure" />
+</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows&perline=12" alt="Tools & Infrastructure" /><img src="assets/skills/tiles/windows-server.svg" alt="Windows Server" title="Windows Server" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-industry-en-dark.svg" />
+  <img src="assets/text/l-industry-en-light.svg" alt="Oil, Gas & Petrochemical Software" />
+</picture>
+<p>
+  <img src="assets/skills/tiles/aspen-hysys.svg" alt="Aspen HYSYS" title="Aspen HYSYS" /><img src="assets/skills/tiles/aspen-pims.svg" alt="Aspen PIMS" title="Aspen PIMS" /><img src="assets/skills/tiles/kbc-petro-sim.svg" alt="KBC Petro-SIM" title="KBC Petro-SIM" />
+</p>
 
 </div>
 
@@ -152,7 +181,7 @@ My work sits where **visual design meets engineering logic.** Whatever the proje
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-connect-en-dark.svg" />
-  <img src="assets/text/h-connect-en-light.svg" alt="Connect With Me" />
+  <img src="assets/text/h-connect-en-light.svg" alt="Get in Touch" />
 </picture>
 
 <p align="left">

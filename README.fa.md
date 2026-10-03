@@ -31,44 +31,62 @@
 
 <div dir="rtl" align="right">
 
-من **یاسین کیانی** هستم؛ **توسعه‌دهنده فول‌استک** و **مهندس نرم‌افزار** ساکن **اصفهان** که علاقه ویژه‌ای به فرانت‌اند دارم. پلتفرم‌های وب، اپلیکیشن‌های اندروید و نرم‌افزارهای داده‌محور می‌سازم؛ از رابط‌های کاربری زیبا و واکنش‌گرا تا معماری‌های بک‌اند مقیاس‌پذیر.
+سلام! من **یاسین کیانی** هستم؛ **برنامه‌نویس فول‌استک** و **مهندس نرم‌افزار** از **اصفهان**. بیشترین علاقه‌ام به فرانت‌اند است؛ جایی که طراحی و برنامه‌نویسی به هم می‌رسند و حاصل کار، همان چیزی است که کاربر می‌بیند و با آن کار می‌کند.
 
-کار من جایی است که **طراحی بصری و منطق مهندسی** به هم می‌رسند. در هر پروژه‌ای تمرکزم روی **کد تمیز و قابل نگهداری** و **تجربه کاربری روان** است.
-</div>
-
-<div dir="rtl" align="right">
-
-<img src="https://api.iconify.design/tabler/school.svg?color=%23F59541&height=20" height="20" align="top" alt="" />&nbsp; **تحصیلات**
-
-- **کارشناسی** مهندسی حرفه‌ای کامپیوتر – نرم‌افزار
-- **کاردانی** نرم‌افزار کامپیوتر
-- دانشگاه ملی مهارت (فنی و حرفه‌ای سابق) — *دانشکده فنی شهید محسن مهاجر اصفهان*
+وب‌سایت و وب‌اپلیکیشن، قالب و افزونه وردپرس، اپلیکیشن اندروید و نرم‌افزارهای داده‌محور می‌سازم. در هر پروژه دو چیز برایم مهم است: **کدی خوانا و قابل نگهداری**، و **تجربه‌ای ساده و دلنشین** برای کسی که از آن استفاده می‌کند.
 
 <img src="https://api.iconify.design/tabler/sparkles.svg?color=%23F59541&height=20" height="20" align="top" alt="" />&nbsp; **در یک نگاه**
 
-- ساخت پلتفرم‌های وب، اپلیکیشن‌های اندروید و ابزارهای مبتنی بر هوش مصنوعی
-- فعالیت در زمینه یادگیری ماشین، بینایی ماشین و سئو با هوش مصنوعی
-- آماده همکاری در **پروژه‌های متن‌باز**
-- زبان‌ها: فارسی (زبان مادری)، انگلیسی
+- این روزها روی پلتفرم‌های وب، افزونه‌های وردپرس، اپلیکیشن‌های اندروید و ابزارهای مبتنی بر هوش مصنوعی کار می‌کنم.
+- مهارتم را در یادگیری ماشین، بینایی ماشین و سئو به کمک هوش مصنوعی گسترش می‌دهم.
+- از همکاری در **پروژه‌های متن‌باز** همیشه استقبال می‌کنم.
+- زبان‌ها: فارسی (زبان مادری) و انگلیسی
+
 </div>
 
 <div align="right">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-competencies-fa-dark.svg" />
-  <img src="assets/text/h-competencies-fa-light.svg" alt="توانمندی‌های اصلی" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-education-fa-dark.svg" />
+  <img src="assets/text/h-education-fa-light.svg" alt="تحصیلات و مدارک" />
 </picture>
 </div>
 
 <div dir="rtl" align="right">
 
-| حوزه | تمرکز |
+| مقطع | رشته | محل تحصیل |
+|---|---|---|
+| **کارشناسی** | مهندسی حرفه‌ای نرم‌افزار کامپیوتر | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
+| **کاردانی** | کامپیوتر – نرم‌افزار | دانشکده فنی و حرفه‌ای شهید محسن مهاجر اصفهان<br /><sub>دانشگاه ملی مهارت (فنی و حرفه‌ای سابق)</sub> |
+
+**گواهی‌نامه‌ها**
+
+<p align="right">
+  <img src="assets/skills/tiles/icdl.svg" alt="ICDL" title="ICDL" />
+</p>
+
+- **ICDL**: گواهی‌نامه بین‌المللی مهارت‌های کامپیوتر
+
+</div>
+
+<div align="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-competencies-fa-dark.svg" />
+  <img src="assets/text/h-competencies-fa-light.svg" alt="زمینه‌های کاری" />
+</picture>
+</div>
+
+<div dir="rtl" align="right">
+
+| حوزه | کاری که انجام می‌دهم |
 |---|---|
-| **توسعه وب** | وب‌سایت‌ها و وب‌اپلیکیشن‌های فول‌استک، مدرن و واکنش‌گرا |
-| **فرانت‌اند و UI/UX** | رابط‌های کاربری ساده، دسترس‌پذیر و جذاب — بخش مورد علاقه من |
-| **مهندسی نرم‌افزار** | منطق برنامه مقیاس‌پذیر، الگوریتم‌ها و نرم‌افزارهای دسکتاپ |
-| **توسعه اندروید** | اپلیکیشن‌های بومی Java با SQLite، متریال دیزاین و رابط راست‌چین |
-| **هوش مصنوعی و بینایی ماشین** | تشخیص چهره، یادگیری ماشین و گردش‌کارهای مبتنی بر هوش مصنوعی |
-| **معماری سیستم** | طراحی گردش‌کارهای امن و بهینه و طراحی پایگاه داده |
+| **توسعه وب** | وب‌سایت و وب‌اپلیکیشن مدرن و واکنش‌گرا؛ از رابط کاربری تا سرور و پایگاه داده |
+| **فرانت‌اند و UI/UX** | رابط‌های کاربری شفاف، دسترس‌پذیر و چشم‌نواز؛ بخشی از کار که بیش از همه دوستش دارم |
+| **وردپرس** | طراحی قالب، افزونه و ابزارک‌های اختصاصی المنتور |
+| **مهندسی نرم‌افزار** | منطق برنامه با ساختاری اصولی، الگوریتم‌ها و نرم‌افزارهای دسکتاپ |
+| **توسعه اندروید** | اپلیکیشن‌های Java با SQLite، متریال دیزاین و پشتیبانی کامل از راست‌چین |
+| **هوش مصنوعی و بینایی ماشین** | تشخیص چهره، یادگیری ماشین و به‌کارگیری هوش مصنوعی در فرایند توسعه |
+| **پایگاه داده و معماری سیستم** | طراحی پایگاه داده و فرایندهای امن و کارآمد |
+
 </div>
 
 <div align="right">
@@ -84,63 +102,79 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-languages-fa-dark.svg" />
   <img src="assets/text/l-languages-fa-light.svg" alt="زبان‌های برنامه‌نویسی" />
 </picture>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,ts&perline=12" alt="languages" />
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,ts&perline=12" alt="Programming Languages" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-frontend-fa-dark.svg" />
-  <img src="assets/text/l-frontend-fa-light.svg" alt="فرانت‌اند و سیستم مدیریت محتوا" />
+  <img src="assets/text/l-frontend-fa-light.svg" alt="فرانت‌اند" />
 </picture>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,jquery,wordpress&perline=12" alt="frontend" />
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=html,css,jquery,angular,react,nextjs,vue,bootstrap&perline=12" alt="Front-End" /><img src="assets/skills/tiles/css-grid-modules.svg" alt="CSS Grid & Modules" title="CSS Grid & Modules" /><img src="assets/skills/tiles/responsive-design.svg" alt="Responsive Design" title="Responsive Design" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-backend-fa-dark.svg" />
-  <img src="assets/text/l-backend-fa-light.svg" alt="بک‌اند، پایگاه داده و هوش مصنوعی" />
+  <img src="assets/text/l-backend-fa-light.svg" alt="بک‌اند و فریم‌ورک‌ها" />
 </picture>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,django,mysql,sqlite,postgres,tensorflow&perline=12" alt="backend" />
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,dotnet&perline=12" alt="Back-End & Frameworks" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-databases-fa-dark.svg" />
+  <img src="assets/text/l-databases-fa-light.svg" alt="پایگاه داده" />
+</picture>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=12" alt="Databases" /><img src="assets/skills/tiles/sql.svg" alt="SQL" title="SQL" /><img src="assets/skills/tiles/sql-server.svg" alt="SQL Server" title="SQL Server" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-wordpress-fa-dark.svg" />
+  <img src="assets/text/l-wordpress-fa-light.svg" alt="وردپرس" />
+</picture>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=12" alt="WordPress" /><img src="assets/skills/tiles/wordpress-cms.svg" alt="WordPress CMS" title="WordPress CMS" /><img src="assets/skills/tiles/wordpress-development.svg" alt="Theme & Plugin Development" title="Theme & Plugin Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-mobile-fa-dark.svg" />
-  <img src="assets/text/l-mobile-fa-light.svg" alt="موبایل، بازی‌سازی و ابزارها" />
+  <img src="assets/text/l-mobile-fa-light.svg" alt="توسعه اپلیکیشن موبایل و بازی" />
 </picture>
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,unity,git,github,vscode,visualstudio,windows&perline=12" alt="mobile" />
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity&perline=12" alt="Mobile & Game Development" /><img src="assets/skills/tiles/android-development.svg" alt="Android Development" title="Android Development" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-design-fa-dark.svg" />
-  <img src="assets/text/l-design-fa-light.svg" alt="طراحی" />
+  <img src="assets/text/l-design-fa-light.svg" alt="طراحی رابط کاربری و گرافیک" />
 </picture>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" alt="design" />
-</p>
-
-<details>
-<summary><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-more-fa-dark.svg" />
-  <img src="assets/text/l-more-fa-light.svg" alt="مهارت‌ها و نرم‌افزارهای دیگر" />
-</picture></summary>
-<br />
-
 <p align="right">
-  <img src="assets/skills/sql-server.svg" alt="SQL Server" height="34" />
-  <img src="assets/skills/windows-server.svg" alt="Windows Server" height="34" />
-  <img src="assets/skills/responsive-design.svg" alt="Responsive Design" height="34" />
-  <img src="assets/skills/css-grid-modules.svg" alt="CSS Grid & Modules" height="34" />
-  <img src="assets/skills/machine-learning.svg" alt="Machine Learning" height="34" />
-  <img src="assets/skills/opencv.svg" alt="OpenCV" height="34" />
-  <img src="assets/skills/google-analytics.svg" alt="Google Analytics" height="34" />
-  <img src="assets/skills/seo-with-ai.svg" alt="SEO with AI" height="34" />
-  <img src="assets/skills/ai-assisted-development.svg" alt="AI-Assisted Development" height="34" />
-  <img src="assets/skills/adobe-dreamweaver.svg" alt="Adobe Dreamweaver" height="34" />
-  <img src="assets/skills/aspen-hysys.svg" alt="Aspen HYSYS" height="34" />
-  <img src="assets/skills/aspen-pims.svg" alt="Aspen PIMS" height="34" />
-  <img src="assets/skills/kbc-petro-sim.svg" alt="KBC Petro-SIM" height="34" />
-  <img src="assets/skills/icdl.svg" alt="ICDL" height="34" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" alt="UI/UX & Graphic Design" /><img src="assets/skills/tiles/ui-ux-design.svg" alt="UI/UX Design" title="UI/UX Design" /><img src="assets/skills/tiles/adobe-dreamweaver.svg" alt="Adobe Dreamweaver" title="Adobe Dreamweaver" />
 </p>
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-ai-fa-dark.svg" />
+  <img src="assets/text/l-ai-fa-light.svg" alt="هوش مصنوعی و یادگیری ماشین" />
+</picture>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=12" alt="AI & Machine Learning" /><img src="assets/skills/tiles/machine-learning.svg" alt="Machine Learning" title="Machine Learning" /><img src="assets/skills/tiles/vibe-coding.svg" alt="Vibe Coding" title="Vibe Coding" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-seo-fa-dark.svg" />
+  <img src="assets/text/l-seo-fa-light.svg" alt="سئو و تحلیل داده‌های وب" />
+</picture>
+<p align="right">
+  <img src="assets/skills/tiles/seo-with-ai.svg" alt="SEO with AI" title="SEO with AI" /><img src="assets/skills/tiles/google-analytics.svg" alt="Google Analytics" title="Google Analytics" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-tools-fa-dark.svg" />
+  <img src="assets/text/l-tools-fa-light.svg" alt="ابزارهای توسعه و زیرساخت" />
+</picture>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows&perline=12" alt="Tools & Infrastructure" /><img src="assets/skills/tiles/windows-server.svg" alt="Windows Server" title="Windows Server" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/text/l-industry-fa-dark.svg" />
+  <img src="assets/text/l-industry-fa-light.svg" alt="نرم‌افزارهای صنعت نفت، گاز و پتروشیمی" />
+</picture>
+<p align="right">
+  <img src="assets/skills/tiles/aspen-hysys.svg" alt="Aspen HYSYS" title="Aspen HYSYS" /><img src="assets/skills/tiles/aspen-pims.svg" alt="Aspen PIMS" title="Aspen PIMS" /><img src="assets/skills/tiles/kbc-petro-sim.svg" alt="KBC Petro-SIM" title="KBC Petro-SIM" />
+</p>
 
 </div>
 
@@ -170,7 +204,7 @@
 <div align="right">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/text/h-connect-fa-dark.svg" />
-  <img src="assets/text/h-connect-fa-light.svg" alt="راه‌های ارتباطی" />
+  <img src="assets/text/h-connect-fa-light.svg" alt="راه‌های ارتباط با من" />
 </picture>
 </div>
 
